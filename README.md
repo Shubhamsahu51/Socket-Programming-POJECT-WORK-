@@ -1,6 +1,4 @@
 # Guide to Socket Programming Introduction
-[![HitCount](http://hits.dwyl.io/shauryauppal/Socket-Programming-Python.svg)](https://github.com/shauryauppal/Socket-Programming-Python) [![MadeIn](https://img.shields.io/badge/MADE%20IN-PYTHON-darkblue.svg)](https://github.com/shauryauppal/Socket-Programming-Python) [![MadeIn](https://img.shields.io/badge/MADE%20IN-C-yellowgreen.svg)](https://github.com/shauryauppal/Socket-Programming-Python/tree/master/Socket_C) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/shauryauppal/Socket-Programming-Python.svg)](https://github.com/shauryauppal/Socket-Programming-Python/stargazers)
 
 ## Socket programming is started by socket library
 
