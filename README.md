@@ -78,7 +78,7 @@ Server uses `bind() , listen() , accept()`
 
 ***************************
 # SOCKET PROGRAMMING WITH MULTI-THREADING
-### Checkout My Article [Socket Programming Multi-Threading At Geeksforgeeks](http://www.geeksforgeeks.org/socket-programming-multi-threading-python/)
+### Checkout Article [Socket Programming Multi-Threading At Geeksforgeeks](http://www.geeksforgeeks.org/socket-programming-multi-threading-python/)
 
 ## Socket Programming->
 It helps us to connect a client to a server. Client is message sender and receiver and server is just a listener that works on data sent by client.
